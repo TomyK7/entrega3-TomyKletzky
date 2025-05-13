@@ -1,0 +1,17 @@
+header {
+  @include mobile {
+    nav {
+      flex-direction: column;
+    }
+  }
+}
+
+main {
+  @include mobile {
+    padding: 1rem;
+  }
+
+  @include tablet {
+    padding: 1.5rem;
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "entrega3-tomykletzky",
+  "version": "1.0.0",
+  "description": "Proyecto web responsive con estructura en HTML, estilos en SASS y animaciones con AOS. Sitio optimizado para dispositivos mobile y desktop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch scss/main.scss css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+"devDependencies": {
+  "sass": "^1.88.0"
+}
+}

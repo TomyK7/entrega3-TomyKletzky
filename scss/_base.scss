@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $fuente-base;
+  font-size: $tamano-base;
+  background-color: $color-fondo;
+  color: $color-texto;
+  line-height: 1.6;
+}
