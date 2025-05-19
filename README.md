@@ -1,4 +1,4 @@
-# Entrega 3 - Estudio contable Kletzky
+# Entrega 3 - Estudio contable Cuenta Conmigo
 Proyecto web responsive con estructura en HTML, estilos en SASS y animaciones con AOS. Sitio optimizado para dispositivos mobile y desktop.
 
 ## Sitio publicado
